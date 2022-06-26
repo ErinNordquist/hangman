@@ -1,0 +1,18 @@
+.letter-show {
+    border: 1px solid #ccc777;
+    display:inline-block;
+
+    margin: 0.25%;
+    font-size: xxx-large;
+    /*align-items: center;*/
+    /*justify-content: center;*/
+    /*width:25px;*/
+    width:4vw;
+    height:4vw;
+}
+
+.third-box {
+    width:33%;
+    height:50%;
+    display:inline-block;
+}
